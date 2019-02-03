@@ -1,3 +1,5 @@
+pragma solidity ^0.4.24;
+
 contract EtherStore {
 
     uint256 public withdrawalLimit = 1 ether;
